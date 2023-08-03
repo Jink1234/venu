@@ -1,3 +1,4 @@
 git log --all --decorate --oneline --graph
 jinkala venu gopal
 jinkala venu gopal
+gopal
